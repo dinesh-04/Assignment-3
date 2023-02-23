@@ -1,0 +1,45 @@
+<html lang="en">
+<head>
+    <title>Introduction</title>
+    <style>
+        body{background-color: rgb(129, 142, 188);}
+        h1{background-color: rgb(170, 89, 97)}
+        h2{background-color: rgb(171, 88, 102);}
+        h3{background-color: rgb(171, 91, 106);}
+    </style>
+</head>
+<body>
+<h1>Introduction</h1>
+<P>
+<ul> 
+    <li>My name is DINESH BABU.K</li>
+    <li>I am persuing my B.tech degree in SRMIST Vadapalani</li>
+</ul>
+</P>
+<hr>
+<h2>My Hobbies</h2>
+<p>I Love to play sports, especially like<ol type="a" start="4"><li>Cricket</li><li>Football</li><li>Volleyball.</li></ol></p>
+<h3>MY skillset</h3>
+<p><a href="https://github.com/dinesh-04"target="_blank">My Github</a></p>
+<p><a href="http://linkedin.com/in/dinesh-babu-58a726264"target="_blank">Linkenin</a></p>
+<p><a href="https://www.hackerrank.com/dnesh5489"target="_blank">Hackerrank</a></p>
+<hr>
+<a href="https://www.srmist.edu.in/">
+    <img src="C:\Users\91638\Desktop\srmseal.png" alt="HTML tutorial" style="width:42px;height:42px;">
+</a>
+<hr>
+<!-- table -->
+<table border="5" cellpadding="10" cellspacing="10">
+    <tr>
+        <th colspan="2">Qualifications</th>
+    </tr>
+    <tr>
+        <th>10<sup>th</sup>(CBSE)</th>
+        <td>76%</td>
+    </tr>
+    <tr>
+        <th>12<sup>th</sup>State Board</th>
+        <td>75%</td>
+    </tr>
+</table>
+<hr>
